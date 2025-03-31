@@ -74,8 +74,10 @@ Dvorak Technique), utilized Lambert azimuthalequal-area projection referring to 
 4. 回归任务的优势：回归任务（特别是对中心气压的回归）定义更明确，因此在正文中主要介绍回归任务的结果。
 5. 数据集规模的影响：通过使用每一代卫星数据的全部序列作为训练集，发现更大规模的数据集可能抵消了代际偏差的负面影响，基于最大数据集训练的模型表现最佳。
 
+
+
 数据集描述在附录B
 他们写了一个库？
 pyphoon2 提供了⼀个过滤选项，可根据遮挡像素的百分⽐从机器学习任务
 中排除某些图像，⽤⼾有责任根据其机器学习任务的需要适当使⽤过滤功能。
-
+![image](https://translate.google.com/saved?sl=auto&tl=zh-CN&op=translate&hl=zh-cn)
