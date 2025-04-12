@@ -10,7 +10,8 @@ github for the paper:https://github.com/TammyLing/Typhoon-forecasting?utm_source
 NVIDIA(donot use but we can refer the writing stracture)-Generative Correction Diffusion Model (CorrDiff) for Km-scale Atmospheric Downscaling):https://docs.nvidia.com/deeplearning/physicsnemo/physicsnemo-core/examples/generative/corrdiff/readme.html#:~:text=To%20improve%20weather%20hazard%20predictions%20without%20expensive%20simulations%2C,using%20high-resolution%20weather%20data%20and%20coarser%20ERA5%20reanalysis.  
 
 my Google drive:  
-code for CDDPM and dataset(dataset is included in the CDDPM,named:WP):https://drive.google.com/drive/folders/11GDacHP5BNizN6NCXyCFe6yYizED8Tau?usp=drive_link  
+code for CDDPM and dataset(dataset is included in the CDDPM,named:WP): 
+CDDPM:https://drive.google.com/drive/folders/1BINjzuNAHVvAfJMM-pjkEf4pRLrIiYSo?usp=sharing
 code for CNN：https://drive.google.com/drive/folders/11CLKDupchDoeVjavgMSBa2Tq1tN3AIv_?usp=drive_link
 
 1.data discription:  
