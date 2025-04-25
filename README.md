@@ -13,6 +13,7 @@ my Google drive:
 code for CDDPM and dataset(dataset is included in the CDDPM,named:WP): 
 CDDPM:https://drive.google.com/drive/folders/1BINjzuNAHVvAfJMM-pjkEf4pRLrIiYSo?usp=sharing
 code for CNN：https://drive.google.com/drive/folders/11CLKDupchDoeVjavgMSBa2Tq1tN3AIv_?usp=drive_link
+And we use unet(add se) trained 3yr data: https://drive.google.com/drive/folders/1Yso8y2-u2xRCBFocCdVO01dzpeDE-3wl?usp=drive_link
 
 1.data discription:  
 It is a track data, location of which is Western North Pacific basin, and the Japan Meteorological Agency (JMA) is designated as the regional center and collected from 1842. With ’annotation’ for TC (tropical cyclones) including: location, intensity, and wind circles, based on the interpretation of meteorological experts following the established procedure (e.g.
@@ -82,3 +83,7 @@ Dvorak Technique), utilized Lambert azimuthalequal-area projection referring to 
 pyphoon2 提供了⼀个过滤选项，可根据遮挡像素的百分⽐从机器学习任务
 中排除某些图像，⽤⼾有责任根据其机器学习任务的需要适当使⽤过滤功能。
 ![image](https://translate.google.com/saved?sl=auto&tl=zh-CN&op=translate&hl=zh-cn)
+
+
+
+
