@@ -20,8 +20,7 @@ It is a track data, location of which is Western North Pacific basin, and the Ja
 Dvorak Technique), utilized Lambert azimuthalequal-area projection referring to the best track data which means it recorded from the start to the end of life of TC to review and evaluate it so as to get the "best estimation". 
 ![image](https://github.com/user-attachments/assets/93491308-8bae-474c-a129-dcf4533f87a4)
 
-我们为所有代卫星开发
-了⾃⼰的解析器，并参照最佳路径创建了以台⻛为中⼼的图像的⼯作流程，如图 1 所⽰。
+"我们为所有代卫星开发了⾃⼰的解析器，并参照最佳路径创建了以台⻛为中⼼的图像的⼯作流程，如图 1 所⽰。
 通过这种⼯作流程，我们整合了元数据和图像，创建了“数字台⻛”数据集。元数据包含每⼩
 时的最佳路径数据以及有关⽂件名和每张图像质量的附加信息。最佳路径数据的格式与⽇本⽓
 象厅提供的原始最佳路径数据格式⼀致。另⼀⽅⾯，图像以 HDF5 格式呈现台⻛中⼼周围⼆维
@@ -43,7 +42,7 @@ Dvorak Technique), utilized Lambert azimuthalequal-area projection referring to 
 趣的问题是，如何将北半球训练的模型转移到南半球。从⽓象学⻆度来看，不同盆地的热带⽓旋被认
 为是相同的⽓象现象，因此理论上可以创建类似的数据库，机器学习的结果也是可迁移的。然⽽，我
 们还需要考虑许多可能影响实际结果的细节，例如最佳路径数据的质量不同，以及不同卫星的传感器
-特性和校准⽅法不同。我们未来版本的数据集和基准可能会解决这些问题。(待会看看
+特性和校准⽅法不同。我们未来版本的数据集和基准可能会解决这些问题。(待会看看"
 作者的思路
 1. 分析任务：利用当前和过去的数据来估算当前值，例如估算台风强度，可细分为分类任务或回归任务，取决于目标变量的类型。
 2. 预测任务：基于当前和过去的数据对未来进行预测，包括短期预测的“临近预报”，但受限于大气混沌性质。
